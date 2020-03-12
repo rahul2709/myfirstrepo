@@ -10,3 +10,8 @@ A3
 A4
 
 Awesome
+
+But in coming days there are a lot more changes anticipated where we will be adding more team members as per the need of the hour.
+Hence i would suggest define the tech stack and lock the requirements for the upcoming work
+
+
